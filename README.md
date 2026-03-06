@@ -12,7 +12,6 @@ Tagline: Building practical Flow extensions and tools that make Salesforce autom
 - **Location:** Sydney, AU
 - **Company / Bio:** RSPCA NSW Software
 
-I maintain and contribute to projects that extend Salesforce Flow and Orchestrator. My public work currently includes a forked collection of Lightning Flow components intended to enhance Flow builder experiences and custom UI integrations. 
 
 > Note: If you'd like to get in touch, the best way is via GitHub (issues/PRs) - links in the Connect section below.
 
