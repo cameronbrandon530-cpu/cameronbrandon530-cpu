@@ -7,8 +7,6 @@ Tagline: Building practical Flow extensions and tools that make Salesforce autom
 
 ## About Me
 
-## About Me
-
 - **GitHub:** `cameronbrandon530-cpu` ([profile](https://github.com/cameronbrandon530-cpu))
 - **Joined GitHub:** 2025-09-29
 - **Location:** Sydney, AU
